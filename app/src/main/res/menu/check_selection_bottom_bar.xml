@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_check_selection"
+        android:contentDescription="@string/checkout_selected_items"
+        android:icon="@drawable/ic_see_24"
+        android:title="@string/checkout_selected_items"
+        app:showAsAction="ifRoom" />
+</menu>

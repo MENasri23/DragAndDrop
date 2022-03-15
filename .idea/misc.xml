@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/drawable/ic_close.xml" value="0.1" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/layout/activity_main.xml" value="0.24094202898550723" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/layout/city_item_view.xml" value="0.22327898550724637" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/layout/city_list_fragment.xml" value="0.152" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/layout/fragment_selected_list.xml" value="0.12360688956433637" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/layout/selected_list_fragment.xml" value="0.12360688956433637" />
+        <entry key="..\:/books/Education/AndroidEdu/myProjects/DragAndDrop/app/src/main/res/menu/check_selection_bottom_bar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
